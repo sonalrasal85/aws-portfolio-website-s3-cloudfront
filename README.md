@@ -1,5 +1,5 @@
 # aws-portfolio-website-s3-cloudfront
-live AWS portfolio website hosted on s3= cloudfrfont with https, OAI security,and cache invalidation.Build for cloud operations engineer role.
+live AWS portfolio website hosted on S3= cloudfront with https, OAI security,and cache invalidation.Build for cloud operations engineer role.
 # AWS Portfolio Website - S3 + CloudFront
 
 **Live URL:** https://d2una8110j1geb.cloudfront.net
